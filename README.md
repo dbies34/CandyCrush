@@ -17,6 +17,8 @@ delete pt.moveTo(pos1) when youre done
 
 5. Change numOfLives to how many lives you want to send to yourself. 
 
+6. Run the program and make sure each button is getting pressed correctly. the sleeps in the while loop may need to be adjusted to a higher number if the auto clicker is going too fast
+
 Note: new Candy Crush update allows you to only redeem 20 free lives from friends in one day
 
 position 1
